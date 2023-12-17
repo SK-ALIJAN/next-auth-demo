@@ -10,10 +10,11 @@
 
 # Tech-Stack Used:-
 1. Next js
-2. Redux 
-3. HTML
-4. Tailwind Css
-5. Firebase
+2. TypeScript
+3. Redux 
+4. HTML
+5. Tailwind Css
+6. Firebase
 
 
 ****************************************************************************************
