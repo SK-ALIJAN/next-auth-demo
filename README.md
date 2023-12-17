@@ -1,3 +1,22 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&random=false&width=435&lines=Hi+!+i+am+Sk+Alijan;This+is+demo+auth-using+Nextapp+;,+Typescript+,+TailwindCss+and+Firebase)](https://git.io/typing-svg)
+
+<br>
+ A demo authentication app made using Next.js typically involves user signup and login functionality. ! <br><br>
+<br>
+<br>
+
+
+****************************************************************************************
+
+# Tech-Stack Used:-
+1. Next js
+2. Redux 
+3. HTML
+4. Tailwind Css
+5. Firebase
+
+
+****************************************************************************************
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,17 +39,17 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+****************************************************************************************
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alijan786/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Terms and Conditions for using this project:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Deployment Restrictions: You are strictly prohibited from deploying any webpage from this project on any platform without explicit permission from the respective owners or rights holders.
+By using this tribute page, you agree to respect the privacy and security of other users and refrain from any disruptive behavior
+Please note that any unauthorized use, distribution, or deployment of this project is a violation of these terms and may be subject to legal consequences.
+
